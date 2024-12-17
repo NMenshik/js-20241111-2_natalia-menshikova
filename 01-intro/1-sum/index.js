@@ -6,5 +6,7 @@
  * @returns {number}
  */
 export const sum = (m, n) => {
-
+m = 1 +1;
+n = 2 + 5;
+  return m, n
 };
